@@ -1,0 +1,6 @@
+name=CHANDRAGIRI VARDHAN
+ email=harshac1942@gmail.com
+ password=1234567890
+name=CHANDRAGIRI VARDHAN
+ email=harshac1942@gmail.com
+ password=1234567890
